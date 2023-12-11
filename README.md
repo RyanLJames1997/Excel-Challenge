@@ -2,13 +2,13 @@
 
 Module 01 Challenge: UWA/edx Data Analytics Bootcamp
 
-Github repository at:
+Github repository at: https://github.com/RyanLJames1997/Excel-Challenge/tree/main
 
 ## Introduction
 
 ### Goal
 
-This challenge uses sample-project data to use a variety of Excel Techniques to uncover market trends
+This challenge uses sample-project data to use a variety of 'Excel techniques' to uncover market trends
 
 ### Dataset
 
